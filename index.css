@@ -1,0 +1,31 @@
+<style>
+* {
+  text-align: center;
+  color: blue;
+}
+        table{
+        	margin-right: -200px;
+        	margin-left: 300px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 50%;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+		td {
+			width: 50em;
+			height: 5ex;
+			background-color: pink;
+			border: 2px solid firebrick;
+			border-radius: 0px;
+			font-weight: bold;
+			color: black;
+			cursor: pointer;
+		}
+        td:hover {
+			background-color: #5F9EA0;
+		}
+		
+</style>
